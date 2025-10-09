@@ -1,4 +1,4 @@
-# rMPP XOVI extensions
+# rMPP XOVI extensions 
 
 This is a monorepo for all my XOVI extensions for the rMPP tablet.
 
