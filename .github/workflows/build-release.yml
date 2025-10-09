@@ -1,4 +1,4 @@
-name: Build with RMPP Toolchain and Upload Releases
+name: Build with RMPPM Toolchain and Upload Releases
 
 on:
   push:
